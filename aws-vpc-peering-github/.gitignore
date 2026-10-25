@@ -1,0 +1,24 @@
+# Secrets and credentials
+*.pem
+*.key
+.env
+.env.*
+.aws/
+credentials
+config
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated exports and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Python cache (if scripts are added later)
+__pycache__/
+*.py[cod]
